@@ -20,4 +20,13 @@
         'medicines' => 'Medicinas',
         'visits' => 'Visitas',
         'reports' => 'Reportes',
+        'welcome' => 'Bienvenido al Sistema Médico',
+        'welcome_message' => 'Sistema integral para gestión de visitas médicas y medicamentos',
+        'go_to_dashboard' => 'Ir al Panel de Control',
+        'register' => 'Registrarse',
+        'profile' => 'Perfil',
+        'logout' => 'Cerrar Sesión',
+        'privacy' => 'Privacidad',
+        'terms' => 'Términos',
+        'copyright' => 'Derechos Reservados',
     ];

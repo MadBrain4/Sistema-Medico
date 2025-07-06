@@ -20,4 +20,13 @@
         'medicines' => 'Medicines',
         'visits' => 'Visits',
         'reports' => 'Reports',
+        'welcome' => 'Welcome to Medical System',
+        'welcome_message' => 'Comprehensive medical visits and medicines management system',
+        'go_to_dashboard' => 'Go to Dashboard',
+        'register' => 'Register',
+        'profile' => 'Profile',
+        'logout' => 'Logout',
+        'privacy' => 'Privacy',
+        'terms' => 'Terms',
+        'copyright' => 'All Rights Reserved',
     ];
