@@ -1,0 +1,23 @@
+<?php
+    return [
+        'email_required' => 'The email field is required.',
+        'email_invalid' => 'Please enter a valid email address.',
+        'password_required' => 'The password field is required.',
+        'credentials_invalid' => 'Invalid credentials. Please try again.',
+        'login' => 'Login',
+        'email' => 'Email Address',
+        'password' => 'Password',
+        'remember' => 'Remember Me',
+        'forgot_password' => 'Forgot Your Password?',
+        'failed' => 'These credentials do not match our records.',
+        'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+        'welcome' => 'Welcome to Medical System',
+        'dashboard' => 'Dashboard',
+        'profile' => 'Profile',
+        'logout' => 'Logout',
+        'companies' => 'Companies',
+        'employees' => 'Employees',
+        'medicines' => 'Medicines',
+        'visits' => 'Visits',
+        'reports' => 'Reports',
+    ];

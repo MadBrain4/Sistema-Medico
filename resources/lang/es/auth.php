@@ -1,0 +1,23 @@
+<?php
+    return [
+        'email_required' => 'El campo email es obligatorio.',
+        'email_invalid' => 'Por favor ingrese un email válido.',
+        'password_required' => 'El campo contraseña es obligatorio.',
+        'credentials_invalid' => 'Credenciales inválidas. Por favor intente nuevamente.',
+        'login' => 'Iniciar Sesión',
+        'email' => 'Correo Electrónico',
+        'password' => 'Contraseña',
+        'remember' => 'Recordarme',
+        'forgot_password' => '¿Olvidaste tu contraseña?',
+        'failed' => 'Estas credenciales no coinciden con nuestros registros.',
+        'throttle' => 'Demasiados intentos de inicio de sesión. Por favor intente nuevamente en :seconds segundos.',
+        'welcome' => 'Bienvenido al Sistema Médico',
+        'dashboard' => 'Panel de Control',
+        'profile' => 'Perfil',
+        'logout' => 'Cerrar Sesión',
+        'companies' => 'Compañías',
+        'employees' => 'Empleados',
+        'medicines' => 'Medicinas',
+        'visits' => 'Visitas',
+        'reports' => 'Reportes',
+    ];
