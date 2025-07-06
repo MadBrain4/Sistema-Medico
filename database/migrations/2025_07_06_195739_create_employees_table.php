@@ -19,6 +19,7 @@ return new class extends Migration
             $table->unsignedInteger('age')->nullable(); // Campo age como entero sin signo
             $table->string('phone', 20)->nullable(); // Longitud limitada a 20 caracteres
             $table->timestamps();
+            $table->softDeletes();
             
             // Índices adicionales para mejor performance
             $table->index('company_id');

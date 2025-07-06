@@ -18,6 +18,7 @@ return new class extends Migration
             $table->text('reason')->nullable();
             $table->text('observations')->nullable();
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

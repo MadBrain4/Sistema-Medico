@@ -17,6 +17,7 @@ return new class extends Migration
             $table->text('description')->nullable();
             $table->string('presentation'); // tabletas, jarabe, etc.
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 
